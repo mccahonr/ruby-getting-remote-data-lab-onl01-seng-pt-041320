@@ -33,3 +33,4 @@ describe 'GetRequester' do
       expect(results).to eq(CONVERTED_DATA)
     end
   end
+end
